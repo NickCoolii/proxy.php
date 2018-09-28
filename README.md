@@ -29,9 +29,9 @@ INSTALL
 1. Preferably use the proxy on it's own domain e.g. http://proxy.xyz.com/
    
 2. Download or clone this repo and copy the `config.php` and `proxy.php` files into the root web folder (or wherever it is you want to deploy the proxy).
-    
-3. [Optionally] rename the `proxy.php` script to 'index.php' if you wish to proxy with the index implied...
-    
-4. Edit the `config.php` script - adjust the target domain list to reflect the only domains you would like to proxy for!
-    
+
+3. Edit the `config.php` script - adjust the target domain list to reflect the only domains you would like to proxy for!
+
+4. [Optionally] rename the `proxy.php` script to 'index.php' if you wish to proxy with the index implied...
+   
 Done!
