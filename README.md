@@ -24,6 +24,7 @@ Also you can use cURL for test in this way:
 Where `proxy.xyz.com` - your domain name.
 
 INSTALL
+=======
 
 1. Preferably use the proxy on it's own domain e.g. http://proxy.xyz.com/
    
